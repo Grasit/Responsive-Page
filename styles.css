@@ -22,6 +22,10 @@ div.logo {
     display: flex;
 }
 
+.ham{
+    display: none;
+}
+
 ul.nav-links {
     display: flex;
     margin: 0;
